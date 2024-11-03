@@ -1,9 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Krupa 
+
+I'm a computer engineer (ECE) from the University of Toronto, with a passion in technology, software, firmare and creativity. My goal is to bring an artistic edge to the tech field.
+
+About me:
+Universty: University of Toronto 
+Career Interests: Exploring software & firmware that emphasizes problem-solving, optimization and building impactful projects
+Creative Intersets: Enthusiastic about meshing digital art and creative design into tech, aiming to develop solutions that are both functional and aesthetically engaging.
+Programming Languages: C/C++, Python, C# 
 
 <!--
 **kups353/kups353** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+About me: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
